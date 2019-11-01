@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1,FAZENDA http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_d1bffa3e94a0f3cff9f86f30f9d4c32ed838e037/playlist.m3u8
+
+#EXTINF:-1,AMC
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/amcbrasil_b7f5113f_08abcfa4774d9e6249d335924f1957f707f9000b/playlist.m3u8
+
+#EXTINF:-1,COMBATE
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_ef795abf57d3472e1b90b4d4e6653507abe3b3cb/playlist.m3u8
+
+#EXTINF:-1,FOX
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/fox_5a5b0f9b_5e5d3f5de7787a6179be714f2f7048f373f594d6.m3u8
+
+#EXTINF:-1,CINEMAX http://edge-aws.aovivo.club/hls/s:94.177.242.28/cinemax480p_22d200f8_e1c9f500563bc5a3e9e2a597798be02c72a12a1d/410p/chunklist.m3u8
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/fox_5a5b0f9b_5e5d3f5de7787a6179be714f2f7048f373f594d6.m3u8
+
+#EXTINF:-1,Telecine Premium
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremium_a929eb33_9b511a32a2deed47dda7a9004714f4e11eb98a17/playlist.m3u8
+
+#EXTINF:-1,Warner Channel
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/warnerchannel_0a57cb53_36b79281db4e70f1609225583e3753eb35795440/410p/chunklist.m3u8
+
+#EXTINF:-1,RECORD
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/combate_ac3478d6_ef795abf57d3472e1b90b4d4e6653507abe3b3cb.m3u8
+
